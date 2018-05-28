@@ -4,14 +4,14 @@
 	id = "com.phonegap.example8"
 	version = "1.0.0">
 	
-	<name> app8 Kit de las apps 4 5 y 6 </name>
+	<name> app8 Aplicaciones ,4 ,5 ,6 </name>
 	
 	<description>
-	Aplicacion que muestra las apps 4, 5 y 6
+	Aplicacion que muestra las aplicaciones
 	</description>
 	
-	<author href="https://build.phonegap.com" email="sofia.rc.1181@gmail.com">
-		Ramos Contla Sofia
+	<author href="https://build.phonegap.com" email="alberthipster28@gmail.com">
+		Alberto Gutierrez perez 
 	</author>
 	
 	<!-- Personaliza la aplicacion y plataforma -->
